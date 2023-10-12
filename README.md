@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Juan Pablo Muñoz
 # 💫 About Me:
-My knowledge of electricity and electronic will take me to know<br>about Raspberry Pi, it is a small PC capable of connecting to (IOT)<br>Internet of Things. I did my first test with home automation connecting<br>to the network using Python to programming. Receive data from devices <br>or sensors and view it in the Cloud (Grafana) and save it to a database.
+With my proficiency in electricity and electronics, I have gained knowledge about Raspberry Pi, which is a compact PC that can connect to the Internet of Things (IoT). I conducted my initial test of home automation by utilizing Python for programming. The Raspberry Pi enabled me to receive data from various devices or sensors, which I could then view on the Cloud (Grafana) and save in a database.
 
 
 ## 🌐 Socials:
